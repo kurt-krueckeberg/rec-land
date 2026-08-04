@@ -4,17 +4,17 @@ root: index
 parts:
   - caption: Introduction
     chapters:
-      - file: overview
-      - file: land-record-types
+      - file: intro/us-land-acquisitions-history
+#     - file: land-record-types
 
-  - caption: Federal Land Records
-    chapters:
-      - file: federal/public-domain
-        sections:
-          - file: federal/patents
-          - file: federal/land-entry-case-files
+# - caption: Federal Land Records
+#   chapters:
+#     - file: federal/public-domain
+#       sections:
+#         - file: federal/patents
+#         - file: federal/land-entry-case-files
 
-  - caption: State and Local Records
-    chapters:
-      - file: state-land-states
-      - file: county-deeds
+# - caption: State and Local Records
+#   chapters:
+#     - file: state-land-states
+#     - file: county-deeds

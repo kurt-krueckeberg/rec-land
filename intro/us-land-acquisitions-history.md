@@ -19,7 +19,7 @@ Provide a list of State-land States and Federal-Land States.
 
 ### **“Land Claims of the Colonies, 1783”**
 
-`https://etc.usf.edu/maps/pages/700/793/793.htm`
+<https://etc.usf.edu/maps/pages/700/793/793.htm>
 
 This map shows the original states’ claimed boundaries extending westward
 to the Mississippi, including the overlapping claims of states such as
