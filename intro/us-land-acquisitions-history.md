@@ -19,7 +19,13 @@ Provide a list of State-land States and Federal-Land States.
 
 ### **“Land Claims of the Colonies, 1783”**
 
-<https://etc.usf.edu/maps/pages/700/793/793.htm>
+
+```{figure} images/the-states-and-their-land-claims.png
+
+Land Claims of the Thirteen Original States in 1783. From Townsend MacCoun,
+An Historical Geography of the United States, rev. ed. (New York: Silver,
+Burdett & Co., 1901). Public domain. Digitized by HathiTrust.
+```
 
 This map shows the original states’ claimed boundaries extending westward
 to the Mississippi, including the overlapping claims of states such as
