@@ -1,24 +1,8 @@
 # Intro
 
-link: <https://chatgpt.com/c/6a6f528c-75a0-83ea-a122-462bb1911682>
+**TODO** Work from the syllabus. And put together something quickly.
 
-TODO: Write the history of each land acquistion of the United States:
-
-- Concessions of colonies
-- 
-
-
-TODO:
-
-Mention that PLSS and the NorthWest Terrritory Ordinance and how the two
-are tied together
-
-Provide a list of State-land States and Federal-Land States.
-
-## Maps
-
-### **“Land Claims of the Colonies, 1783”**
-
+## **“Land Claims of the Colonies, 1783”**
 
 ```{figure} images/the-states-and-their-land-claims.png
 :class: image-override
@@ -31,57 +15,14 @@ Burdett & Co., 1901). Public domain. Digitized by HathiTrust.
 This map shows the original states’ claimed boundaries extending westward
 to the Mississippi, including the overlapping claims of states such as
 Virginia, Connecticut, Massachusetts, North Carolina, South Carolina, and
-Georgia. It is specifically a map of the **claims as they existed in
-1783**; it does not show Kentucky as a separate state or territory. Its
-original source was Charles Kendall Adams, *A History of the United States*
-(1909), page 179. Because it was published in 1909, the original map is in
-the public domain in the United States.
+Georgia. 
 
-That map shows the **claims before the cessions**. For the cessions
-themselves—the dates and areas ultimately relinquished—the closest focused
-companion map is:
+**TODO:** Provide a table giving the date that land was ceded back to United
+States by the orignal 13 states.
 
-### **“State Claims to Western Lands, 1783–1802”**
+## Overview of Major Land Acquistions with a Map
 
-`https://etc.usf.edu/maps/pages/2400/2404/2404.htm`
-
-That one labels the lands ceded by the individual states and gives the
-cession dates. It does mention Kentucky in a note, but Kentucky is not its
-principal subject. Its source was Albert Bushnell Hart, *The American
-Nation*, volume 10 (1906), page 108, so the underlying map is also public
-domain.
-
-#### Comments
-
-Thus, the cleanest pairing is:
-
-* **1783 claims map:** shows what the states claimed.
-* **1783–1802 cessions map:** shows what they surrendered to the national
-  government and when.
-
-There does not appear to be a readily available historical public-domain
-map that shows **only the completed state cessions**, with every later
-territory such as Kentucky entirely omitted.
-
-## Northwest Territory Overview
-
-Yes. The Library of Congress has a map that addresses exactly what was missing:
-
-### Western Land Claims, Territorial Organizations, 1783–1812
-
-`https://www.loc.gov/resource/g3701sm.gct00482/?sp=20`
-
-This is a single-map page, not the entire atlas. It shows:
-
-* the western claims of several original states;
-* the lands ceded by those states to the United States;
-* the Northwest Territory;
-* the Southwest Territory;
-* the later territorial organization through 1812.
-
-It was published in 1919 by the McConnell Map Company. The Library of Congress states that material in its digitized Geography and Map Division collections is free to use and reuse unless a contrary rights notice appears; none is shown for this map. ([The Library of Congress][1])
-
-One important qualification: **not all thirteen states had western claims to surrender.** The major cessions came from states such as Virginia, New York, Massachusetts, Connecticut, North Carolina, South Carolina, and Georgia. The claims overlapped in several places, so the history is more complicated than thirteen separate, neatly adjoining cessions.
+## History of Northwest Territory and Congressional Acts
 
 ## The Northwest Territory
 
