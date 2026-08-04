@@ -21,6 +21,7 @@ Provide a list of State-land States and Federal-Land States.
 
 
 ```{figure} images/the-states-and-their-land-claims.png
+:class: image-override
 
 Land Claims of the Thirteen Original States in 1783. From Townsend MacCoun,
 An Historical Geography of the United States, rev. ed. (New York: Silver,
