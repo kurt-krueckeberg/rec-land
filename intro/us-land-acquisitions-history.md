@@ -20,12 +20,15 @@ Georgia.
 **TODO:** Provide a table giving the date that land was ceded back to United
 States by the orignal 13 states.
 
-## Overview of Major Land Acquistions with a Map
+## Overview of Major Land Acquistions by United States
 
 ## History of Northwest Territory and Congressional Acts
 
-1. The Treaty of Paris in **1783** gave the United States an international claim to the land east of the Mississippi.
-2. Individual states surrendered their overlapping western claims, principally during the **1780s**.
-3. Congress passed the Land Ordinance of **1785**, creating the basic federal survey-and-sale system.
-4. Congress adopted the Northwest Ordinance on **July 13, 1787**, organizing the territory politically.
 
+Show it map and use the syllabus to give the history and the acts
+
+
+```{important}
+The goal is to provide the background and then get into the HOWTO and the
+Home work.
+```
