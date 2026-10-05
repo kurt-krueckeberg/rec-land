@@ -1,6 +1,7 @@
 # Intro
 
-**TODO** Work from the syllabus. And put together something quickly.
+**TODO** Work from the syllabus along with E. Wade Hone's book. The goal is to provide the background and then get into the HOWTO of
+land records. 
 
 ## **“Land Claims of the Colonies, 1783”**
 
@@ -24,11 +25,6 @@ States by the orignal 13 states.
 
 ## History of Northwest Territory and Congressional Acts
 
-
 Show it map and use the syllabus to give the history and the acts
 
 
-```{important}
-The goal is to provide the background and then get into the HOWTO and the
-Home work.
-```
